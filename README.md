@@ -10,6 +10,7 @@ Programmers would say "you must carefully choose which technologies you will mar
 ### Repositories
 Occasionally, I work on a personal project and then, I realize I made something that I can consider as one of my masterpiece. These are those projects:
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=ketodietlib&theme=blueberry)](https://github.com/netervati/ketodietlib)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=tofix&theme=blueberry)](https://github.com/netervati/tofix)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=space-distortion&theme=blueberry)](https://github.com/netervati/space-distortion)
 
@@ -18,3 +19,4 @@ For more information about me, please check the following:
 - [Portfolio](https://netervati.pythonanywhere.com/)
 - [Upwork](https://www.upwork.com/nx/find-work/best-matches)
 - [Itch.io](https://netervati.itch.io/)
+- [DEV](https://dev.to/netervati)
