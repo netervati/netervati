@@ -16,7 +16,7 @@ Occasionally, I work on a personal project and then, I realize I made something 
 
 ### Links
 For more information about me, please check the following:
-- [Portfolio](https://netervati.pythonanywhere.com/)
-- [Upwork](https://www.upwork.com/nx/find-work/best-matches)
+- [Portfolio](https://christophertabula.herokuapp.com/)
+- [Upwork](https://www.upwork.com/freelancers/~0107c82810d5582362)
 - [Itch.io](https://netervati.itch.io/)
 - [DEV](https://dev.to/netervati)
