@@ -3,25 +3,15 @@ My name is Christopher Tabula. I'm a **Software Engineer** working in Philippine
 
 #### 🧰 Technical Skills
 <img width=45 title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-&emsp;
 <img width=45 title="Javascript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-&emsp;
 <img width=45 title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-&emsp;
 <img width=45 title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-&emsp;
 <img width=45 title="Flask"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-&emsp;
 <img width=45 title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-&emsp;
 <img width=45 title="VueJS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-&emsp;
 <img width=45 title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-&emsp;
 <img width=45 title="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-&emsp;
 <img width=45 title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-&emsp;
 <img width=45 title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 
 #### 🔗 Information about me
