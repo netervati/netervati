@@ -2,24 +2,33 @@
 My name is Christopher Tabula. I'm a **Software Engineer** working in Philippines.
 
 #### 🧰 Technical Skills
+<img width=45 title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+&emsp;
+<img width=45 title="Javascript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+&emsp;
+<img width=45 title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+&emsp;
+<img width=45 title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+&emsp;
+<img width=45 title="Flask"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+&emsp;
+<img width=45 title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+&emsp;
+<img width=45 title="VueJS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+&emsp;
+<img width=45 title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+&emsp;
+<img width=45 title="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+&emsp;
+<img width=45 title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+&emsp;
+<img width=45 title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-#### 🔗 More Information about me
+#### 🔗 Information about me
 - [My Personal Portfolio](https://christophertabula.herokuapp.com/)
 - [Upwork Profile](https://www.upwork.com/freelancers/~0107c82810d5582362)
 - [Itch.io Page](https://netervati.itch.io/)
 - [DEV Page](https://dev.to/netervati)
 
-#### 🔨 Highlight Repositories
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=ketodietlib&theme=blueberry)](https://github.com/netervati/ketodietlib)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=space-distortion&theme=blueberry)](https://github.com/netervati/space-distortion)
-
 #### 📈 Github Overview
-![Github stats](https://github-readme-stats.vercel.app/api?username=netervati&theme=nightowl&show_icons=true&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=netervati&theme=default&show_icons=true)
