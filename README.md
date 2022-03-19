@@ -1,22 +1,25 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=netervati&theme=nightowl&show_icons=true&count_private=true)
 # Hello!
-My name is **Christopher Tabula**. I'm a software developer with a passion for web development.
+My name is Christopher Tabula. I'm a **Software Engineer** working in Philippines.
 
-### Expertise
-Programmers would say "you must carefully choose which technologies you will marry, since it requires time and dedication to master them". In my case, these are those technologies:
+#### 🧰 Technical Skills
 
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-### Repositories
-I've worked on a few projects before. Of course, I have my personal favorites amongst them. These are those projects:
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+#### 🔗 More Information about me
+- [My Personal Portfolio](https://christophertabula.herokuapp.com/)
+- [Upwork Profile](https://www.upwork.com/freelancers/~0107c82810d5582362)
+- [Itch.io Page](https://netervati.itch.io/)
+- [DEV Page](https://dev.to/netervati)
+
+#### 🔨 Highlight Repositories
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=ketodietlib&theme=blueberry)](https://github.com/netervati/ketodietlib)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=netervati&repo=space-distortion&theme=blueberry)](https://github.com/netervati/space-distortion)
 
-### Links
-For more information about me, please check the following:
-- [Portfolio](https://christophertabula.herokuapp.com/)
-- [Upwork](https://www.upwork.com/freelancers/~0107c82810d5582362)
-- [Itch.io](https://netervati.itch.io/)
-- [DEV](https://dev.to/netervati)
+#### 📈 Github Overview
+![Github stats](https://github-readme-stats.vercel.app/api?username=netervati&theme=nightowl&show_icons=true&count_private=true)
