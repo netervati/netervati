@@ -10,6 +10,7 @@ My name is Christopher Tabula. I'm a **Software Engineer** working in Philippine
 -  🌱 I was a full-time [freelancer](https://www.upwork.com/freelancers/~0107c82810d5582362) back in 2021
 #### 📅 What I'm doing right now
 - ✍🏽 I'm exploring [writing](https://dev.to/netervati) as a means of sharing my knowledge
+- 📊 I'm building a data visualizer for .xlsx files called [Excelerated](https://github.com/netervati/excelerated)
 <br>
 <hr>
 
