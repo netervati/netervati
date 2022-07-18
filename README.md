@@ -21,7 +21,7 @@ At work, I use **Ruby on Rails**, **React**, and several other tools.
 For my own backend projects, I  use 🐍 **Python** and tools such as **Django**, **Django REST framework**, **Pytest**, and **Black**.
 
 For the frontend, I use **Vue3**, **Pinia**, **Vite**, and **Tailwindcss**.
-<br>
+<br><br>
 <hr>
 
 ### 📈 Github Overview
