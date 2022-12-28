@@ -14,6 +14,6 @@
 ### I'm currently exploring
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=007acc&color=D5D7DB" /> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=black&color=D5D7DB" /> <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82&color=D5D7DB" /> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=69A33E&color=D5D7DB" />
 
-<br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netervati&langs_count=5&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
