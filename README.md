@@ -26,14 +26,14 @@ _I build things. I do recreational coding. I enjoy learning._
   ![](https://img.shields.io/badge/-Supabase-1e293b?style=for-the-badge&logo=supabase)
 
 
-### 🔧 I know
+### 🔧 I also know
   ![](https://img.shields.io/badge/-Python-64748b?style=flat-square&logo=python)
   ![](https://img.shields.io/badge/-Django-64748b?style=flat-square&logo=django)
   ![](https://img.shields.io/badge/-MySQL-64748b?style=flat-square&logo=mysql)
   ![](https://img.shields.io/badge/-MongoDB-64748b?style=flat-square&logo=mongodb)
 
 
-### 📚 I'm exploring
+### 📚 I'm currently exploring
   ![](https://img.shields.io/badge/-Rust-D5D7DB?style=flat-square&logo=rust)
   ![](https://img.shields.io/badge/-Nuxt-D5D7DB?style=flat-square&logo=nuxtdotjs)
   ![](https://img.shields.io/badge/-Neovim-D5D7DB?style=flat-square&logo=neovim)
