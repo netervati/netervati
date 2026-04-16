@@ -41,6 +41,7 @@ _I build things. I do recreational coding. I enjoy learning._
 
 ### 📊 Contribution graph
 If contribution graphs matter to you, then you can look at my work accounts:
-- [Subble](https://github.com/subblechris?tab=overview&from=2024-12-01&to=2024-12-31)
-- [PayMongo](https://github.com/tabulapaymongo?tab=overview&from=2022-12-01&to=2022-12-31)
+[Subble](https://github.com/subblechris?tab=overview&from=2024-12-01&to=2024-12-31) &ensp;
+[PayMongo](https://github.com/tabulapaymongo?tab=overview&from=2022-12-01&to=2022-12-31)
+
  
