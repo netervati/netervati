@@ -38,4 +38,9 @@ _I build things. I do recreational coding. I enjoy learning._
 ### 📚 I'm currently exploring
   ![](https://img.shields.io/badge/-Rust-D5D7DB?style=flat-square&logo=rust)
   ![](https://img.shields.io/badge/-Go-D5D7DB?style=flat-square&logo=go)
+
+### 📊 Contribution graph
+If contribution graphs matter to you, then you can look at my work accounts:
+- [Subble](https://github.com/subblechris?tab=overview&from=2024-12-01&to=2024-12-31)
+- [PayMongo](https://github.com/tabulapaymongo?tab=overview&from=2022-12-01&to=2022-12-31)
  
